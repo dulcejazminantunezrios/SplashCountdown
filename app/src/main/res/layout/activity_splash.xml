@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Splash"
+    android:background="@drawable/fondogato">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#9AE65F5F"
+        android:text="Hola!"
+        android:textAlignment="center"
+        android:textSize="40dp"
+        android:fontFamily="casual"
+        android:textStyle="bold"
+        android:layout_centerInParent="true"
+        android:id="@+id/txt_rst"></TextView>
+</RelativeLayout>

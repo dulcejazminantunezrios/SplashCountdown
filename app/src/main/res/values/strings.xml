@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Splash y Countdown</string>
+    <string name="dato">9 de cada 10 gatos prefieren Wiskas?</string>
+    <string name="pregunta">¿Sabías qué...</string>
+</resources>
