@@ -34,9 +34,21 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:text="Canción favorita"
+        android:fontFamily="sans-serif-condensed-light"
+        android:textSize="30dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="110dp"
+        android:textStyle="bold"
+        android:onClick="botonIntent_imp"
+        ></Button>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:text="Meow"
         android:fontFamily="sans-serif-condensed-light"
-        android:textStyle="bold"
         android:textSize="30dp"
         android:layout_alignParentBottom="true"
         android:layout_centerInParent="true"

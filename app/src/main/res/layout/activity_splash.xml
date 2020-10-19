@@ -10,11 +10,26 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#9AE65F5F"
-        android:text="Hola!"
+        android:text="Espera..."
         android:textAlignment="center"
         android:textSize="40dp"
         android:fontFamily="casual"
         android:textStyle="bold"
         android:layout_centerInParent="true"
         android:id="@+id/txt_rst"></TextView>
+
+    <TextView
+        android:id="@+id/txt_rst2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="517dp"
+        android:background="#9AE65F5F"
+        android:fontFamily="casual"
+        android:text="5"
+        android:textAlignment="center"
+        android:textSize="60dp"
+        android:textStyle="bold"></TextView>
+
 </RelativeLayout>
